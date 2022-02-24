@@ -1,17 +1,17 @@
-### 关于我
+#### 关于我
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xhxu&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" alt="xhxu" />
 <!-- <img align="right" style="margin-left:0px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhxu&layout=compact" alt="xhxu" /> -->
 
 <div align="left" class="d-flex">
 
-- ✨ 我是夫子。全栈一枚,现在主要前端方向。
-- 🔭 目前就职遥望。
-- 📝 偶尔会写一写文章 [Blog](http://xhxu.github.io/)
-- 💬 欢迎交流 **Css, Javascript, Node.js,PHP,MySQL,MongoDB**， 略懂 py Go。
-- 📫 联系我 **xh_xu@qq.com**
+- ✨ 我是夫子。全栈一枚,目前主要在前端方向。
+- 🔭 目前就职于 杭州遥望网络。
+- 📝 偶尔会写一些文章分享 [Blog](https://www.yuque.com/xufuzi)
+- 💬 欢迎交流 **HTML, CSS, Javascript,Typescript, Node.js, PHP, MySQL, MongoDB**， 略懂 **py Go**。
+- 📫 联系我 **xh_xu#qq.com**
 </div>
 
-### 技术栈&工具
+#### 技术栈&工具
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
