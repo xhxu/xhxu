@@ -1,19 +1,14 @@
-#### 关于我
+#### 关于我👋
 
-
-### Hi there 👋
-<br/>
-<div>
 - ✨ 我是徐夫子。全栈一枚,目前主要在前端方向。
 - 🔭 目前就职于 杭州遥望网络。
 - 📝 偶尔会写一些文章分享 [Blog](https://www.yuque.com/xufuzi)
 - 💬 欢迎交流 **HTML, CSS, Javascript,Typescript, Node.js, PHP, MySQL, MongoDB**， 略懂 **py Go**。
 - 📫 联系我 **xh_xu#qq.com**
-</div>
+
 <br/>
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=xhxu&show_icons=true&count_private=true&show_icons=true&theme=material-palenight&hide_title=true" alt="xhxu" />
-</p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=xhxu&show_icons=true&count_private=true&show_icons=true&theme=material-palenight&hide_title=true" alt="xhxu" />
 
 <!--
 #### 技术栈&工具
