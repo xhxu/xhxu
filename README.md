@@ -1,7 +1,7 @@
 #### 关于我👋
 
 - ✨ 我是徐夫子。全栈一枚,目前主要在前端方向。
-- 🔭 目前就职于 杭州遥望网络。
+- 🔭 目前就职于 [杭州遥望科技](https://www.ywwl.com/)。
 - 📝 偶尔会写一些文章分享 [Blog](https://www.yuque.com/xufuzi)
 - 💬 欢迎交流 **HTML, CSS, Javascript,Typescript, Node.js, PHP, MySQL, MongoDB**， 略懂 **py Go**。
 - 📫 联系我 **xh_xu#qq.com**
